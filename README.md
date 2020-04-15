@@ -1,39 +1,3 @@
-# Project Definition
-
-|Details   							|Answers|
-|:--								|:--	|
-|**Project Name:**					|Name	|
-|**Business area:**					|Area	|
-|**Business manager responsible:**	|Name	|
-|**Business focal point:**		   	|Name	|
-|**Analytics responsible:**  		|Name  	|
-|**Manager responsible:**			|Name	|
-
-**1. What is the problem we want to solve?**
-
-	- Answer
-    
-    
-**2. Why do we want to solve this problem?**
-
-	- Answer
-    
-    
-**3. What do we expect of results?**
-
-	- Answer
-    
-    
-**4. What is the expected delivery?**
-
-	- Answer
-    
-    
-**5. What is the success criteria?**
-
-	- Answer
-
-
 
 Project Organization
 ------------
@@ -82,33 +46,5 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
-
-
-Project Methodology (CRISP-DM)
-------------
-
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/business_understanding_CRISPDM.PNG" width="60%" alt="Business Understanding from CRISP-DM">
-</div>
-<br>
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/data_understanding_CRISPDM.PNG" width="60%" alt="Data Understanding from CRISP-DM">
-</div>
-<br>
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/data_preparation_CRISPDM.PNG" width="60%" alt="Data Preparation from CRISP-DM">
-</div>
-<br>
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/modeling_CRISPDM.PNG" width="60%" alt="Modeling from CRISP-DM">
-</div>
-<br>
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/evaluation_CRISPDM.PNG" width="60%" alt="Evaluation from CRISP-DM">
-</div>
-<br>
-<div display="block" margin-left="auto" margin-right="auto" align="center">
-<img src="docs/deployment_CRISPDM.PNG" width="60%" alt="Deployment from CRISP-DM">
-</div>
-<br>
-<p> <strong>Reference:</strong> The Modeling Agency. CRISP-DM 1.0. 2000. URL: https://www.the-modeling-agency.com/crisp-dm.pdf </p>
+    Structure created using: https://drivendata.github.io/cookiecutter-data-science/
+    
